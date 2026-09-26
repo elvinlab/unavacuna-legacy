@@ -12,4 +12,4 @@ Next.js
 
 ## Demo
 
-https://unavacuna.netlify.app
+> 🔌 **Demo offline** — the backend this project depended on has been retired, so the live demo is no longer available.
